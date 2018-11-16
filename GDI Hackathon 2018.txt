@@ -1,0 +1,129 @@
+﻿Hackathon Logistics
+
+
+Social Media: 
+Tweet to  #GDIBostonHacks
+Twitter: @gdiboston
+Facebook: https://www.facebook.com/GDIBoston/
+LinkedIn: https://www.linkedin.com/company/girl-develop-it-boston/
+Instagram: @gdiboston   
+
+
+Location:
+Audible
+101 Main Street, Cambridge, MA
+5th Floor
+
+
+Parking: 
+If you are driving, there is usually on-street parking available on Main Street on Friday nights, but you will need to fill the meter until 8 pm. There is an app called Park Boston which makes it easy to pay and refill the meter by phone.
+
+
+If you prefer to park in a garage, there are 2 close by:
+* Kendall Square South, $10 on Fridays after 4 pm, $12 all day Saturday-Sunday
+* 650 Kendall Street, $10 on Fridays after 4 pm, $12 all day Saturday-Sunday
+
+
+MBTA: 
+Red Line to Kendall Square/MIT
+
+
+Bus: 
+CT2, 64, 68, 69, or 85 
+*Shuttle Buses are scheduled to replace Red Line Service between Alewife and Harvard Stations on Saturday and Sunday. These detours usually add ~15 minutes to the journey, plan accordingly!*
+
+
+Registration:
+Upon arrival, check in and present a valid ID, you will be issued an Amazon Visitor Badge. 
+Visitor Badges have unique IDs matched with visitor names and must be worn at all times.
+Upon departing every day, visitor badges must be returned. 
+
+
+
+
+Schedule
+
+
+Friday
+5pm - 6pm Registration, 5th floor hors d'oeuvres, networking
+6pm Keynote
+7pm Meet your team
+7:30pm-9pm Workshops: 6th Floor
+
+
+Saturday
+7:30am Registration + Breakfast: 6th Floor
+8am Start Hacking
+12pm Lunch
+5pm Dinner
+9pm Concludes for evening
+
+
+Sunday
+8:30am Registration + Breakfast: 6th Floor
+9am-10:30am Complete Projects + Prepare Presentation
+11am - 2pm Presentations + Lunch:  5th Floor
+2:15pm PRIZES + Swag
+3pm - Weekend concludes!
+
+
+Technology Stuff
+
+
+GitHub Project: 
+* Create a project for your team. In your repo, create a README.md with your teammates names and a brief description of your project.
+* Project Ideas: https://github.com/gdiboston/hackathon-2018
+
+
+Slack Channel: 
+1. First join here: https://gdiboston-slack.herokuapp.com/
+2. Search for channel gdibostonhacks and join!
+
+
+
+
+
+
+
+
+
+
+Presentation Template: 
+* All teams must use the following template: 
+   * Introduce Team
+   * Problem Statement
+   * Why Chose this Project
+   * Demo
+   * What you learned
+* Template here: http://bit.ly/gdi-bos-slides
+
+
+TA HelpQ:  https://gdiboston.herokuapp.com/
+Hackathon GitHub: https://github.com/organizations/GDIBostonHackathon2018/
+
+
+It does not matter if the code is messy, or not well commented, or uses inefficient algorithms. Hacking is about playing around, making mistakes, and learning new things. The code does not have to be production ready!
+
+
+Prize Categories:
+* Best in Show - Innovative, Technical Execution, Creative, UX/UI
+* Best use of Technology/Innovation
+* Best UX/UI/Creative
+
+
+Prerequisites for Alexa Skill Workshop
+Create an account at developer.amazon.com
+Create an account at aws.amazon.com
+
+
+Download GitHub: https://github.com/
+GitHub Tutorials: https://guides.github.com/activities/hello-world/
+
+
+Alexa Skills: 
+https://developer.amazon.com/docs/custom-skills/create-intents-utterances-and-slots.html https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html
+
+
+Design:
+https://developer.amazon.com/blogs/alexa/post/ea99c8a1-36fa-4778-bbc3-56a6cee6e3b9/announcing-the-amazon-alexa-voice-design-guide
+https://blinkux.com/ideas/5-design-tools-voice-ux
