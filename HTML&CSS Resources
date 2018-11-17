@@ -3,17 +3,29 @@ http://overapi.com/html
 **HTML5-specific reference:** https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521
 https://www.w3schools.com/
 https://www.sitepoint.com/20-docs-guides-front-end-developers/
+
+
 ##CSS General References
 http://overapi.com/css
 https://tympanus.net/codrops/css_reference/
 http://cssreference.io/
 https://css-tricks.com/
 https://css-tricks.com/lets-look-50-interesting-css-properties-values/
+https://marksheet.io/
+https://adam-marsden.co.uk/css-cheat-sheet?utm_source=frontendfocus&utm_medium=email
+https://www.hongkiat.com/blog/css-snippets-for-designers/amp/
+https://30-seconds.github.io/30-seconds-of-css/
 **Centering in CSS:** https://www.w3.org/Style/Examples/007/center.en.html#block
+**css positioning by building an ice cream sundae: https://dev.to/kbk0125/css-positioning-explained-by-building-an-ice-cream-sundae--3e86
+**Specifically for forms**: https://patterns.boilerform.design/#group-input-field-component-email
+
+
 ###Frameworks
 **Bootstrap:** http://getbootstrap.com/
 **Foundation:** https://foundation.zurb.com/
 **Reset.css:** https://meyerweb.com/eric/tools/css/reset/
+
+
 ###Good Tools for Assets
 **Hex color tool:** https://www.w3schools.com/colors/colors_picker.asp
 **Free stock photos:** https://www.pexels.com/
