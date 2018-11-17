@@ -1,0 +1,7 @@
+## JQuery 
+**JQuery UI cheatsheet:** https://bitsofco.de/jquery-ui-events/
+**Collection of JQuery cheatsheets:** https://blog.templatetoaster.com/jquery-cheat-sheet/
+**Mega JQuery cheatsheet:** https://makeawebsitehub.com/jquery-mega-cheat-sheet/
+
+## JavaScript 
+**https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
