@@ -1,0 +1,7 @@
+##Ideation
+**Coming up with Project Ideas:  **https://selftaughtcoders.com/from-idea-to-launch/lesson-1/coming-up-with-your-web-application-ideas/
+
+## Deployment Tools
+**Heroku (best for sites that need a backend):** https://www.heroku.com/
+**Github Pages (best for sites that are frontend only):** https://help.github.com/articles/what-is-github-pages/
+**CodeSandBox (good for collaboration and deployment with node, react, vue, etc):** https://codesandbox.io/?from-app=1
